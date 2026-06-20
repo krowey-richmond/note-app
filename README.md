@@ -64,6 +64,18 @@ Optionally, use VS Code Live Server for a local preview.
 
 ---
 
+## 📁 Folder Structure
+
+```bash
+note-app/
+├── app.js
+├── index.html
+├── styles.css
+└── README.md
+```
+
+---
+
 ## 🧠 What I Learned
 
 - Building interactive UI behavior with vanilla JavaScript
