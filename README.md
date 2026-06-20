@@ -34,9 +34,7 @@ This app provides a simple notes workspace for users who need a lightweight, off
 
 ## 📸 Screenshots
 
-Screenshot placeholder: /assets/screenshot.png
-
----
+## ![Quick Notes App Screenshot](./assets/screenshot.png)
 
 ## 🔗 Live Demo
 
