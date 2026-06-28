@@ -38,7 +38,7 @@ This app provides a simple notes workspace for users who need a lightweight, off
 
 ## 🔗 Live Demo
 
-[![Live Demo](https://img.shields.io/badge/Live%20Demo-Netlify-00C7B7?style=for-the-badge&logo=netlify&logoColor=white)](https://note-app-krb.netlify.app/)
+[![Live Demo](https://img.shields.io/badge/Live%20Demo-Netlify-00C7B7?style=for-the-badge&logo=netlify&logoColor=white)](https://krowey-richmond.github.io/note-app/)
 
 ---
 
